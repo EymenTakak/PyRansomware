@@ -40,8 +40,8 @@ Mail ile iletilen bilgiler:
   Google Cookie Database.
   
   Çalıştırılan bilgisayara oluşturulmuş Salt Değeri Ve Şifre.
- 
-  
+
+![alt text](https://i.ibb.co/Z848BhM/github.png)
   
 ------------------------------------------------------------
 Bu proje tamamen eğitim amaçlıdır, kullanım riski size aittir. Bu yazılımın yasa dışı olarak kullanılmasını veya önceden yetkileri olmadan hedeflere saldırılmasını hiçbir şekilde teşvik etmiyorum.
