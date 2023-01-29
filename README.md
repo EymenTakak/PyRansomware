@@ -43,4 +43,6 @@ Mail ile iletilen bilgiler:
  
   
   
-
+------------------------------------------------------------
+Bu proje tamamen eğitim amaçlıdır, kullanım riski size aittir. Bu yazılımın yasa dışı olarak kullanılmasını veya önceden yetkileri olmadan hedeflere saldırılmasını hiçbir şekilde teşvik etmiyorum.
+------------------------------------------------------------
